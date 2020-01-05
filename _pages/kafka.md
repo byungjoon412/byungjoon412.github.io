@@ -1,7 +1,7 @@
 ---
-title: "ClassicCS"
+title: "Kafka"
 layout: single
-permalink: /ClassicCS/
+permalink: /kafka/
 author_profile: true
 ---
 
